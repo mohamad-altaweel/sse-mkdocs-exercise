@@ -6,3 +6,4 @@ nav:
         - Getting Started: 'how-to.md'
 repo_url: https://github.com/mohamad-altaweel/sse-mkdocs-exercise
 site_author: mohamad-altaweel
+edit_uri: edit/main/docs/
